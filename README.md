@@ -2,7 +2,7 @@
 
 > A journey from software development to the world of cybersecurity and reverse engineering.
 
-![Banner](./banner.png) <!-- Replace with your actual image path -->
+![Banner](./IMG_1159.png) <!-- Replace with your actual image path -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Made With Love](https://img.shields.io/badge/Made%20with-%F0%9F%92%96-red.svg)](#)
